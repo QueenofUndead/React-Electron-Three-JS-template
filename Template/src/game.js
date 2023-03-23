@@ -1,11 +1,6 @@
 import * as THREE from 'three';
 
 const Game = () => {
-    // return (
-    //     <div>
-    //         <h1>Game</h1>
-    //     </div>
-    // )
     document.addEventListener('DOMContentloaded', createGame())
 }
 
