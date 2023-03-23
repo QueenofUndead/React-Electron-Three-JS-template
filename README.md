@@ -2,7 +2,7 @@
 
 Commands
 ```
-npm install 
 cd template
+npm install
 npm start
 ```
