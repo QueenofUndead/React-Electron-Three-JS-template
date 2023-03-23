@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import Game from './game.js';
 
 function app() {
-    ReactDOM.render(<canvas onLoad={Game}></canvas>, document.body);
+    ReactDOM.render(<body onLoad={Game}></body>, document.body);
 }
 
 app()
